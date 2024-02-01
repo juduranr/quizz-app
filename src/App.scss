@@ -1,0 +1,115 @@
+$color-fondo: #f0f0f0;
+$color-texto: #333;
+$color-primario: #007bff;
+$color-correcto: #28a745;
+$color-incorrecto: #dc3545;
+$fuente-principal: 'Arial', sans-serif;
+
+body {
+  background-color: $color-fondo;
+  font-family: $fuente-principal;
+  color: $color-texto;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.app-container {
+  text-align: center;
+  width: 100%;
+}
+
+.contenedor-pregunta {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+  text-align: center;
+  min-height: 100px;
+  min-width: 100px;
+}
+
+.pregunta {
+  font-size: 1.2em;
+  margin-bottom: 15px;
+}
+
+.boton-opcion {
+  background-color: $color-primario;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  margin: 5px;
+  padding: 10px 15px;
+  transition: background-color 0.3s, transform 0.2s;
+  opacity: 1;
+  transition: opacity 0.5s ease, transform 0.5s ease;
+
+  &.respuesta-dada:not(.correcta, .incorrecta) {
+    opacity: 0;
+    transform: scale(0);
+  }
+
+  &:hover {
+    background-color: darken($color-primario, 10%);
+    transform: translateY(-2px);
+  }
+
+  &.correcta {
+    background-color: $color-correcto;
+  }
+
+  &.incorrecta {
+    background-color: $color-incorrecto;
+  }
+}
+
+.boton-nueva-pregunta {
+  background-color: $color-primario;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  margin: 5px 0;
+  padding: 10px 15px;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.contenedor-correcto, .contenedor-incorrecto {
+  animation: animacionCambio 1s ease-out forwards;
+}
+
+@keyframes animacionCambio {
+  from {
+    transform: scale(1);
+    opacity: 1;
+  }
+  to {
+  }
+}
+
+.correcta, .incorrecta {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(1.5);
+  z-index: 10;
+}
+
+.respuesta-correcta {
+  font-size: 1em; 
+  font-weight: bold;
+}
+
+.rachas {
+  margin-top: 20px;
+  font-weight: bold;
+  p {
+    margin: 5px 0;
+  }
+}

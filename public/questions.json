@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué significa la sigla 'IA'?",
+    "opciones": ["Investigación Avanzada", "Inteligencia Artificial", "Interacción Automatizada", "Instrucción Automática"],
+    "respuestaCorrecta": "Inteligencia Artificial"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cuál de las siguientes NO es una rama de la Inteligencia Artificial?",
+    "opciones": ["Aprendizaje Profundo", "Robótica", "Biología Molecular", "Procesamiento de Lenguaje Natural"],
+    "respuestaCorrecta": "Biología Molecular"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué tipo de aprendizaje se basa en la idea de imitar el proceso de aprendizaje humano?",
+    "opciones": ["Aprendizaje Supervisado", "Aprendizaje No Supervisado", "Aprendizaje por Refuerzo", "Aprendizaje Profundo"],
+    "respuestaCorrecta": "Aprendizaje por Refuerzo"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué función desempeñan las redes neuronales en el campo de la IA?",
+    "opciones": ["Simular el comportamiento humano", "Procesar información de manera secuencial", "Emular el funcionamiento del cerebro", "Ejecutar algoritmos de búsqueda"],
+    "respuestaCorrecta": "Emular el funcionamiento del cerebro"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué es el 'aprendizaje por refuerzo' en IA?",
+    "opciones": ["Aprender a través de la observación de datos etiquetados", "Aprender a partir de la retroalimentación positiva o negativa", "Aprender mediante la identificación de patrones en datos no etiquetados", "Aprender imitando el comportamiento humano"],
+    "respuestaCorrecta": "Aprender a partir de la retroalimentación positiva o negativa"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Cuál es el significado de las siglas LLM en inteligencia artificial?",
+    "opciones": ["Low Level Memory", "Language Learning Module", "Large Language Model", "Logical Learning Machines"],
+    "respuestaCorrecta": "Large Language Model"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Cuál es el lenguaje de programación más usado en la web?",
+    "opciones": ["JavaScript", "Java", "Python", "HTML"],
+    "respuestaCorrecta": "JavaScript"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cuál es el lenguaje de programación más usado en la web?",
+    "opciones": ["JavaScript", "Java", "Python", "HTML"],
+    "respuestaCorrecta": "JavaScript"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué significa HTML en desarrollo web?",
+    "opciones": ["HyperText Markup Language", "HighTech Modern Language", "Hyperlink and Text Markup Language", "Home Tool Markup Language"],
+    "respuestaCorrecta": "HyperText Markup Language"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué significa CSS en el contexto de desarrollo web?",
+    "opciones": ["Computer Style Sheet", "Cascading Style Sheet", "Creative Style Sheet", "Colorful Style Sheet"],
+    "respuestaCorrecta": "Cascading Style Sheet"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué tipo de archivo se utiliza comúnmente para almacenar estilos en una página web?",
+    "opciones": [".html", ".css", ".js", ".jpg"],
+    "respuestaCorrecta": ".css"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué bloque no pertenece a la Universidad Nacional de Colombia (Sede medellín)",
+    "opciones": ["M9", "M10", "M19", "14"],
+    "respuestaCorrecta": "M19"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Cuál de los siguientes es un sistema operativo de código abierto?",
+    "opciones": ["Windows", "iOS", "Linux", "Android"],
+    "respuestaCorrecta": "Linux"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué tecnología inalámbrica se utiliza comúnmente para la transferencia de archivos a corta distancia?",
+    "opciones": ["Bluetooth", "NFC", "Wi-Fi", "LTE"],
+    "respuestaCorrecta": "Bluetooth"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Cuál de las siguientes opciones representa una unidad de almacenamiento?",
+    "opciones": ["RAM", "CPU", "GPU", "HDD"],
+    "respuestaCorrecta": "HDD"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Cuál de las siguientes empresas es conocida por fabricar dispositivos electrónicos y desarrollar software?",
+    "opciones": ["Sony", "Microsoft", "Nike", "Coca-Cola"],
+    "respuestaCorrecta": "Microsoft"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué significan las letras de WWW?",
+    "opciones": ["World Wide Web", "Wired Web Workspace", "Wireless Web Widget", "Wide Web Wavelength"],
+    "respuestaCorrecta": "Microsoft"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Cuál de las siguientes ramas de la ingeniería se ocupa del diseño y la construcción de estructuras?",
+    "opciones": ["Ingeniería Eléctrica", "Ingeniería Civil", "Ingeniería Química", "Ingeniería Aeroespacial"],
+    "respuestaCorrecta": "Ingeniería Civil"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Cuál es el principio básico de la ingeniería de control?",
+    "opciones": ["Minimizar costos", "Maximizar la eficiencia", "Optimizar la velocidad", "Reducir la complejidad"],
+    "respuestaCorrecta": "Maximizar la eficiencia"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué tipo de ingeniería se enfoca en el diseño y la mejora de sistemas de producción?",
+    "opciones": ["Ingeniería de Software", "Ingeniería Industrial", "Ingeniería Química", "Ingeniería Mecánica"],
+    "respuestaCorrecta": "Ingeniería Industrial"
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Cuál de las siguientes disciplinas de ingeniería se ocupa de la aplicación de principios biológicos en el diseño de sistemas y productos?",
+    "opciones": ["Ingeniería Biomédica", "Ingeniería Aeroespacial", "Ingeniería de Materiales", "Ingeniería Civil"],
+    "respuestaCorrecta": "Ingeniería Biomédica"
+  },
+  {
+    "id": 22,
+    "pregunta": "¿En qué área de la ingeniería se trabaja principalmente en la construcción y operación de aeronaves y naves espaciales?",
+    "opciones": ["Ingeniería Mecánica", "Ingeniería Aeroespacial", "Ingeniería Naval", "Ingeniería Electrónica"],
+    "respuestaCorrecta": "Ingeniería Aeroespacial"
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Qué es un diagrama de flujo y cuál es su función en Ingeniería de Sistemas?",
+    "opciones": ["Representa gráficamente el flujo de un río", "Muestra la secuencia de pasos en un proceso", "Ilustra la anatomía humana", "Indica el flujo de datos en un sistema"],
+    "respuestaCorrecta": "Muestra la secuencia de pasos en un proceso"
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué es un sistema en el contexto de Ingeniería de Sistemas?",
+    "opciones": ["Un conjunto de partes interconectadas que trabajan juntas", "Un dispositivo mecánico simple", "Un programa de computadora independiente", "Un componente eléctrico básico"],
+    "respuestaCorrecta": "Un conjunto de partes interconectadas que trabajan juntas"
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Qué empresa creó la primera cámara digital?",
+    "opciones": ["Canon", "Sony", "Kodak", "Nikon"],
+    "respuestaCorrecta": "Kodak"
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Cuántos bits tiene un byte?",
+    "opciones": ["64 bits", "16 bits", "32 bits", "8 bits"],
+    "respuestaCorrecta": "8 bits"
+  },
+  {
+    "id": 27,
+    "pregunta": "Qué valor tiene el número binario 11010 en decimal",
+    "opciones": ["21", "328", "26", "87"],
+    "respuestaCorrecta": "26"
+  },
+  {
+    "id": 28,
+    "pregunta": "¿En qué guerra contribuyó Alan Turing de manera significativa?",
+    "opciones": [
+      "Primera Guerra Mundial",
+      "Segunda Guerra Mundial",
+      "Guerra Fría",
+      "Guerra de Vietnam"
+    ],
+    "respuestaCorrecta": "Segunda Guerra Mundial"
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Cuál es el propósito principal de un firewall en una red informática?",
+    "opciones": [
+      "Detectar virus en el hardware",
+      "Proteger contra incendios",
+      "Prevenir accesos no autorizados",
+      "Optimizar la velocidad de la conexión"
+    ],
+    "respuestaCorrecta": "Prevenir accesos no autorizados"
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Qué significa la sigla VPN en el ámbito de las redes?",
+    "opciones": [
+      "Virtual Private Network",
+      "Visual Processing Node",
+      "Voice and Phone Network",
+      "Virtual Processing Node"
+    ],
+    "respuestaCorrecta": "Virtual Private Network"
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Cuál de las siguientes opciones es un ejemplo de almacenamiento en la nube?",
+    "opciones": [
+      "USB externo",
+      "Disco duro interno",
+      "Google Drive",
+      "DVD grabable"
+    ],
+    "respuestaCorrecta": "Google Drive"
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Cuál es el término que describe la práctica de buscar en Internet información personal sobre alguien sin su consentimiento?",
+    "opciones": [
+      "Ciberacoso",
+      "Phishing",
+      "Stalking digital",
+      "Ingeniería social"
+    ],
+    "respuestaCorrecta": "Stalking digital"
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Qué es el 'phishing'?",
+    "opciones": [
+      "Una técnica de pesca deportiva",
+      "Un intento de obtener información confidencial mediante engaños",
+      "Un nuevo protocolo de red",
+      "Un tipo de virus informático"
+    ],
+    "respuestaCorrecta": "Un intento de obtener información confidencial mediante engaños"
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Qué es un 'hacker ético'?",
+    "opciones": [
+      "Alguien que realiza actividades ilegales en línea",
+      "Una persona que defiende la seguridad informática mediante pruebas autorizadas",
+      "Un término para describir a cualquier persona que usa una computadora",
+      "Un especialista en marketing digital"
+    ],
+    "respuestaCorrecta": "Una persona que defiende la seguridad informática mediante pruebas autorizadas"
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Cuál es una señal común de un correo electrónico de 'phishing'?",
+    "opciones": [
+      "La presencia de un remitente conocido",
+      "Solicitudes de información confidencial o contraseñas",
+      "Contenido gramaticalmente perfecto",
+      "Firmas digitales auténticas"
+    ],
+    "respuestaCorrecta": "Solicitudes de información confidencial o contraseñas"
+  }
+]
